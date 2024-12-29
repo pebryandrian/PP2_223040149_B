@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan7/Biodata/Biodata.iml" filepath="$PROJECT_DIR$/Pertemuan7/Biodata/Biodata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan7/Membership/Membership.iml" filepath="$PROJECT_DIR$/Pertemuan7/Membership/Membership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan1/Pertemuan1.iml" filepath="$PROJECT_DIR$/Pertemuan1/Pertemuan1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan13/Pertemuan13.iml" filepath="$PROJECT_DIR$/Pertemuan13/Pertemuan13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan14/Pertemuan14.iml" filepath="$PROJECT_DIR$/Pertemuan14/Pertemuan14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan2/Pertemuan2.iml" filepath="$PROJECT_DIR$/Pertemuan2/Pertemuan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan8/Pertemuan8.iml" filepath="$PROJECT_DIR$/Pertemuan8/Pertemuan8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan9/Pertemuan9.iml" filepath="$PROJECT_DIR$/Pertemuan9/Pertemuan9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudiKasus/StudiKasus.iml" filepath="$PROJECT_DIR$/StudiKasus/StudiKasus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS_PP2.iml" filepath="$PROJECT_DIR$/TUGAS_PP2.iml" />
+    </modules>
+  </component>
+</project>
